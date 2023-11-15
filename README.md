@@ -25,5 +25,5 @@ This module is made for Programming Lab II. Contains 3 classes for analysis of d
 pdm, pandas
 
 ### Data
-
+s
 1. [Test sequence](./data/sequence.fasta)
